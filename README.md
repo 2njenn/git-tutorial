@@ -8,4 +8,4 @@ This is another paragraph I've added
 ## H2
 
 1. Resolutions
-..*Eat healthy
+  *Eat healthy
